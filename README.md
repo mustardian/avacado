@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/mustardian/avacado/blob/main/play_store_feature_graphic.png)
+![Logo](https://github.com/mustardian/avacado/blob/main/banner.jpeg)
 # Avacado
 
 **The** wallpaper app for all your needs.
