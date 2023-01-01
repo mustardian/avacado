@@ -1,5 +1,5 @@
 
-![Logo](/pictures/icons/banner.jpeg)
+![Logo](./pictures/icons/banner.jpeg)
 # Avacado
 
 **The** wallpaper app for all your needs.
