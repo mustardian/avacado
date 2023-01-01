@@ -9,7 +9,7 @@
 
 You can directly install the app by clicking on the respective links.
 
-Download for [Android]() | [iOS]()
+Download for [Android](https://github.com/mustardian/avacado/blob/main/avacado.apk) | [iOS]()
 
 ## Authors
 
