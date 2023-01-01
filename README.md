@@ -1,5 +1,5 @@
 
-![Logo](banner.jpeg)
+![Logo](/pictures/icons/banner.jpeg)
 # Avacado
 
 **The** wallpaper app for all your needs.
@@ -9,7 +9,7 @@
 
 You can directly install the app by clicking on the respective links.
 
-Download for [Android](https://github.com/mustardian/avacado/blob/main/avacado.apk) | [iOS]()
+Download for [Android](https://github.com/mustardian/avacado/releases/tag/Android) | [iOS]()
 
 ## Authors
 
