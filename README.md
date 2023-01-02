@@ -1,5 +1,5 @@
 
-![Logo](./pictures/icons/banner.jpeg)
+![Logo](https://cdn.discordapp.com/attachments/636963818165108769/1059349743093940304/banner.png)
 # Avacado
 
 **The** wallpaper app for all your needs.
@@ -9,7 +9,7 @@
 
 You can directly install the app by clicking on the respective links.
 
-Download for [Android](https://github.com/mustardian/avacado/releases/tag/Android) | [iOS]()
+Download for [Android](https://github.com/mustardian/avacado/releases/) | [iOS](https://github.com/mustardian/avacado/releases/)
 
 ## Authors
 
@@ -25,5 +25,8 @@ Download for [Android](https://github.com/mustardian/avacado/releases/tag/Androi
 
 ## Screenshots
 
-//TODO: Upload app screenshots
+![ss](https://media.discordapp.net/attachments/636963818165108769/1059352080566992906/Screenshot_20230102-113452.png?width=209&height=464) ![ss](https://media.discordapp.net/attachments/636963818165108769/1059352080873164840/Screenshot_20230102-113425.png?width=209&height=464) 
 
+## Try it out
+
+![ss](https://media.discordapp.net/attachments/636963818165108769/1059352081242271804/Screenshot_20230102-113518.png?width=209&height=464) ![ss](https://media.discordapp.net/attachments/636963818165108769/1059352081607168010/Screenshot_20230102-113504.png?width=209&height=464)
