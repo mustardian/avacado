@@ -25,7 +25,7 @@ Download for [Android](https://github.com/mustardian/avacado/releases/) | [iOS](
 
 ## Screenshots
 
-![ss](https://media.discordapp.net/attachments/636963818165108769/1059352080566992906/Screenshot_20230102-113452.png?width=209&height=464) ![ss](https://media.discordapp.net/attachments/636963818165108769/1059352080873164840/Screenshot_20230102-113425.png?width=209&height=464) 
+![ss](https://media.discordapp.net/attachments/636963818165108769/1059352080566992906/Screenshot_20230102-113452.png?width=209&height=464) ![ss](https://media.discordapp.net/attachments/636963818165108769/1059859067511767143/Screenshot_20230103-211111.png?width=209&height=464) 
 
 ## Try it out
 
